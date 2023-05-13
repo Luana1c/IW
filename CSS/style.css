@@ -1,0 +1,67 @@
+body{
+    background-color: azure ;
+    font-family: 'Bruno Ace', cursive;
+}
+h1,h2{
+    color: #fff;
+    text-align: center;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+}
+
+p{
+    padding-top: 1%;
+    padding-bottom: 0.5%;
+    line-height: 1.5;
+    font-size: 1.2em;
+    text-align: justify;
+    text-indent: 25px;
+    
+}
+
+.listameio li{
+    line-height: 1.5;
+    font-size: 1.2em;
+}
+
+header{
+    width:100%;
+    background-color:black;
+    padding: 2%;
+}
+
+.logo{
+    color: #fff;
+    text-align: center;
+    font-size: 1.4em;
+}
+
+nav{
+    color: #fff;
+    text-align: center;
+    font-size: 1.4em;
+}
+
+.banner{
+    width: 100%;
+}
+
+.container{    
+    width: 80%;
+    margin: auto;
+    color: #fff;
+}
+
+section{
+    background-color: rgba(229, 241, 54, 0.822);
+    padding-right: 2%;
+    padding-left: 2%;
+    
+}
+
+footer{
+    background-color: black;
+    color: #fff;
+    font-size: 1.3em;
+    text-align: center;    
+}
